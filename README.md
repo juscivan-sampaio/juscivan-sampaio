@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software no IESB** e atuo na área de tecnologia, desenvolvendo experiência prática com **suporte, automação de processos e soluções do ecossistema Microsoft**.
+Sou estudante de **Engenharia de Software** e atuo na área de tecnologia, desenvolvendo experiência prática com **suporte, automação de processos e soluções do ecossistema Microsoft**.
 
 - ⚙️ Uso **Power Apps, Power Automate, Power BI, Dataverse e SharePoint** para automatizar processos, organizar informações e apoiar a operação
 - 📊 Crio **dashboards e relatórios** para acompanhar indicadores e apoiar decisões
