@@ -58,7 +58,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" alt="Cobra de contribuições" width="100%" />
+<img src="https://github.com/juscivan2007" alt="Cobra de contribuições" width="100%" />
 
 </div>
 
@@ -68,10 +68,10 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/juscivan-s-95107a3a9/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:juscivanvieir@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
