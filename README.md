@@ -50,17 +50,6 @@ Sou estudante de **Engenharia de Software no IESB** e atuo na área de tecnologi
 
 <a href="https://www.linkedin.com/in/juscivan-s-95107a3a9/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/juscivan2007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:juscivanvieir@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<br><br>
-
-📧 juscivanvieir@gmail.com
 
 </div>
 
