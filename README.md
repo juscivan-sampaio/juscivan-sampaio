@@ -5,7 +5,6 @@
 <h3>Estudante de Engenharia de Software &nbsp;•&nbsp; Power Platform &nbsp;•&nbsp; Dados</h3>
 
 <img src="https://img.shields.io/badge/Bras%C3%ADlia%2C%20DF-1a1b26?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-1a1b26?style=for-the-badge&logo=target&logoColor=7aa2f7" />
 
 </div>
 
